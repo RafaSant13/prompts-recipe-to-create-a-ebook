@@ -32,14 +32,14 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de python, o ebook é do nicho de programação e o subnicho é de python, o título deve ser épico e curto, e tenha uma temática de fantasia no título, me liste 5 variações de títulos                                                      |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em python, listando dicas de python com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico  |
 
 
 Leonardo.AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A wheathered wizard's grimoire cover covering the entire image to be used for an ebook cover. It has an empty space in the middle and red accents among it's corners.  |
+| título | A wheathered wizard's grimoire cover covering the entire image to be used for an ebook cover. It has an empty space in the middle and red accents among its corners.  |
 
 ## ✨ Features
 
